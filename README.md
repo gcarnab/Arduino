@@ -7,9 +7,9 @@ By GCARNAB <a href='https://github.com/gcarnab'> <img src='https://avatars.githu
 ---
 ## Contents
 
-- 
+- PYTHON : folder containing code for arduino & python interactions programs
 
 
 ## INSTRUCTIONS
 
--
+- 

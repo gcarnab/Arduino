@@ -7,7 +7,7 @@ By GCARNAB <a href='https://github.com/gcarnab'> <img src='https://avatars.githu
 ---
 ## Contents
 
-1. This Arduino sketch sets up a simple program where it listens for commands ('1' to turn on the LED, '0' to turn it off) sent over the serial port
+1. **gc_blink** : folder containing a simple program where it listens for commands ('1' to turn on the LED, '0' to turn it off) sent over the serial port
 - gc_blink.ino : arduino code
 - gc_blink.py : pyhon code
 
