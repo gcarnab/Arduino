@@ -7,9 +7,9 @@ By GCARNAB <a href='https://github.com/gcarnab'> <img src='https://avatars.githu
 ---
 ## Contents
 
-1. **gc_blink** : folder containing a simple program where it listens for commands ('1' to turn on the LED, '0' to turn it off) sent over the serial port
-- gc_blink.ino : arduino code
-- gc_blink.py : pyhon code
+1. **gc_blink** : folder containing a simple program where it listens for commands ('1' to turn on the LED, '0' to turn it off) sent over the serial port. Using tkinter GUI library
+    - gc_blink.ino : arduino code
+    - gc_blink.py : pyhon code
 
 
 ## Instructions
