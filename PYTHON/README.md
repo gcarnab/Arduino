@@ -15,6 +15,7 @@ By GCARNAB <a href='https://github.com/gcarnab'> <img src='https://avatars.githu
 ## Instructions
 - pip install pyserial
 - install **Arduino** extension for vscode
+- install **C/C++ Extension Pack** extension for vscode
 
 ## Resources
 
