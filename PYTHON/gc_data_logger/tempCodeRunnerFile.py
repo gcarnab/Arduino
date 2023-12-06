@@ -1,0 +1,1 @@
+elif choice == 'x' or keyboard.is_pressed('esc') or keyboard.is_pressed('Esc'):
